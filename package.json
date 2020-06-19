@@ -74,7 +74,7 @@
     "jest-webgl-canvas-mock": "^0.2.3",
     "lodash.isnil": "4.0.0",
     "lodash.times": "4.3.2",
-    "pixi.js": "5.2.4",
+    "pixi.js": "5.3.0",
     "prettier": "^2.0.5",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
@@ -93,7 +93,7 @@
     "typescript": "3.8.3"
   },
   "peerDependencies": {
-    "pixi.js": "^5.x.x",
+    "pixi.js": "^5.3.x",
     "prop-types": "^15.x.x",
     "react": "^16.x.x",
     "react-dom": "^16.x.x"
